@@ -63,4 +63,4 @@ _Февраль – Май 2025, Москва_
 
 - 📬 **Почта:** [gserbakov21@gmail.com](mailto:gserbakov21@gmail.com)  
 - 💬 **Telegram:** [@glebshcherbakovv](https://t.me/glebshcherbakovv)  
-- 🌐 **GitHub:** [github.com/glebshcherbakov25](https://github.com/glebshcherbakov25)
+
