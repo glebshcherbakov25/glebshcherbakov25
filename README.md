@@ -26,7 +26,7 @@
   `PySpark`, `Hadoop`
 
 - **Визуализация и BI:**  
-  `Power BI`, `Tableau`
+  Power BI, АС Навигатор 
 
 - **Инструменты:**  
   `Git`, `Airflow`, `Jira`, `Confluence`
