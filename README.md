@@ -1,6 +1,6 @@
 # Gleb Shcherbakov — **Data Scientist | Researcher** 👋  
 
-🎓 Bachelor’s student (RANEPA), 19 y.o.  
+🎓 Bachelor’s student (RANEPA), 20 y.o.  
 📊 Interested in **Big Data**, **Machine Learning**, and **Econometrics**  
 📍 Moscow, Russia  
 
