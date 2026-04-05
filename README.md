@@ -8,9 +8,9 @@
 
 ## 🧭 About Me  
 
-I am a **Data Scientist & Researcher** specializing in **econometric modeling** and **time series forecasting**, working at the intersection of **macroeconomics**, **monetary policy**, and **financial markets**.  
+I am a **Data Scientist & Researcher** specializing in **econometric modeling** and **time series forecasting** .
 
-My work focuses on **financial markets**, **cryptocurrency**, and **interest rate dynamics**.  
+My research interests are **financial markets**, **cryptocurrency**, and **interest rate dynamics**.  
 
 I work on analytical and research tasks — from **econometric modeling** and **forecasting** to **data processing** and **automation**, using data science methods to study economic and financial systems.  
 
