@@ -8,12 +8,13 @@
 
 ## 🧭 About Me  
 
-I am a **Data Scientist & Researcher** specializing in **econometric modeling** and **time series forecasting**.  
+## 🧭 About Me  
+
+I am a **Data Scientist & Researcher** specializing in **econometric modeling**, **time series forecasting**, and applications in **macroeconomics and finance**.  
 
 I work on a wide range of analytical and research tasks — from **developing ML models** and **econometric forecasting** to **process automation** and **big data analysis**.  
 
 I use tools such as `Python`, `pandas`, `statsmodels`, `scikit-learn`, `PyTorch`, `SQL`, `plotly`, `streamlit`, `Power BI`, and other modern data analysis and visualization frameworks.  
-
 ---
 
 ## 💼 Experience  
