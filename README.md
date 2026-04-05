@@ -8,8 +8,6 @@
 
 ## 🧭 About Me  
 
-## 🧭 About Me  
-
 I am a **Data Scientist & Researcher** specializing in **econometric modeling**, **time series forecasting**, and applications in **macroeconomics and finance**.  
 
 I work on a wide range of analytical and research tasks — from **developing ML models** and **econometric forecasting** to **process automation** and **big data analysis**.  
