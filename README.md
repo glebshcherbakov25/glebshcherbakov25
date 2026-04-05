@@ -1,40 +1,40 @@
-# Глеб Щербаков — **Data Scientist | Researcher** 👋  
+# Gleb Shcherbakov — **Data Scientist | Researcher** 👋  
 
-🎓 Студент бакалавриата (РАНХиГС), 19 лет  
-📊 Увлекаюсь **Big Data**, **ML**, **Эконометрикой**  
-📍 Москва, Россия  
-
----
-
-## 🧭 Обо мне  
-
-Я **Data Scientist & Researcher**, специализирующийся на **эконометрическом моделировании** и **прогнозировании временных рядов**.  
-
-Решаю широкий спектр аналитических и исследовательских задач — от **разработки ML-моделей** и **эконометрических прогнозов** до **автоматизации процессов** и **обработки больших данных**.  
-
-Использую `Python`, `pandas`, `statsmodels`, `scikit-learn`, `SQL`, `plotly`, `streamlit`, `Power BI`  и другие современные инструменты анализа и визуализации данных.  
+🎓 Bachelor’s student (RANEPA), 19 y.o.  
+📊 Interested in **Big Data**, **Machine Learning**, and **Econometrics**  
+📍 Moscow, Russia  
 
 ---
 
-## 💼 Опыт  
+## 🧭 About Me  
 
-**Сбербанк — Data Analyst Intern**  
-_Февраль – Май 2025 · Москва_  
+I am a **Data Scientist & Researcher** specializing in **econometric modeling** and **time series forecasting**.  
 
-**Институт экономической политики им. Е. Т. Гайдара — Junior Researcher**  
-_Август 2025 – настоящее время · Москва_  
+I work on a wide range of analytical and research tasks — from **developing ML models** and **econometric forecasting** to **process automation** and **big data analysis**.  
 
----
-
-## 🎓 Образование  
-
-**РАНХиГС при Президенте РФ**  
-Институт экономики, математики и ИТ  
-Программа: _«Цифровая экономика»_ (бакалавриат, 3 курс)  
+I use tools such as `Python`, `pandas`, `statsmodels`, `scikit-learn`, `PyTorch`, `SQL`, `plotly`, `streamlit`, `Power BI`, and other modern data analysis and visualization frameworks.  
 
 ---
 
-## 📫 Контакты  
+## 💼 Experience  
 
-- 📬 **Почта:** [gserbakov21@gmail.com](mailto:gserbakov21@gmail.com)  
+**Sberbank — Data Analyst Intern**  
+_February – May 2025 · Moscow_  
+
+**Gaidar Institute for Economic Policy — Junior Researcher**  
+_August 2025 – Present · Moscow_  
+
+---
+
+## 🎓 Education  
+
+**RANEPA (Russian Presidential Academy of National Economy and Public Administration)**  
+Institute of Economics, Mathematics, and Information Technology  
+Program: _Digital Economy_ (Bachelor’s degree, 3rd year)  
+
+---
+
+## 📫 Contacts  
+
+- 📬 **Email:** [gserbakov21@gmail.com](mailto:gserbakov21@gmail.com)  
 - 💬 **Telegram:** [@glebshcherbakovv](https://t.me/glebshcherbakovv)  
