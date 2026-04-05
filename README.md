@@ -8,11 +8,13 @@
 
 ## 🧭 About Me  
 
-I am a **Data Scientist & Researcher** specializing in **econometric modeling**, **time series forecasting**, and applications in **macroeconomics and finance**.  
+I am a **Data Scientist & Researcher** specializing in **econometric modeling** and **time series forecasting**, working at the intersection of **macroeconomics**, **monetary policy**, and **financial markets**.  
 
-I work on a wide range of analytical and research tasks — from **developing ML models** and **econometric forecasting** to **process automation** and **big data analysis**.  
+My work focuses on **financial markets**, **cryptocurrency**, and **interest rate dynamics**.  
 
-I use tools such as `Python`, `pandas`, `statsmodels`, `scikit-learn`, `PyTorch`, `SQL`, `plotly`, `streamlit`, `Power BI`, and other modern data analysis and visualization frameworks
+I work on analytical and research tasks — from **econometric modeling** and **forecasting** to **data processing** and **automation**, using data science methods to study economic and financial systems.  
+
+I use tools such as `Python`, `pandas`, `statsmodels`, `scikit-learn`, `PyTorch`, `SQL`, `plotly`, `streamlit`, `Power BI`, and other modern data analysis and visualization frameworks. 
 
 ---
 
