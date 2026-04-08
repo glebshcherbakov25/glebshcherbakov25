@@ -14,7 +14,7 @@ My research interests are **financial markets**, **cryptocurrency**, and **inter
 
 I work on analytical and research tasks — from **econometric modeling** and **forecasting** to **data processing** and **automation**, using data science methods to study economic and financial systems.  
 
-I use tools such as `Python`, `pandas`, `statsmodels`, `scikit-learn`, `PyTorch`, `SQL`, `plotly`, `streamlit`, `Power BI`, and other modern data analysis and visualization frameworks. 
+I use such tools as `Python`, `pandas`, `statsmodels`, `scikit-learn`, `PyTorch`, `SQL`, `plotly`, `streamlit`, `Power BI`, and other modern data analysis and visualization frameworks. 
 
 ---
 
